@@ -1,4 +1,7 @@
-test
-====
+You can just type in here and what you see is what you get.
 
-this is a test of things
+Simple.
+
+Here is *italic*
+
+Here is **bold**
